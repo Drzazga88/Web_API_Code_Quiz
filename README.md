@@ -18,7 +18,7 @@ This project's aim was to build a timed coding quiz with multiple-choice questio
 
   - When the game ends, it should display their score and give the user the ability to save their initials and their score.
 
-![Example of result](./sfx/Coding%20Quiz.webm)
+[Coding Quiz.webm](https://user-images.githubusercontent.com/119010465/213934914-e5588468-4f4a-4492-a9b5-968d32e34bf0.webm)
 
 [**Deployed application (click me)**](https://drzazga88.github.io/Web_API_Code_Quiz/)
 
